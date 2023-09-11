@@ -1,0 +1,7 @@
+C:\Users\Angelica\Desktop\Nova pasta (2)\dotnet\server\obj\Debug\net6.0\server.csproj.AssemblyReference.cache
+C:\Users\Angelica\Desktop\Nova pasta (2)\dotnet\server\obj\Debug\net6.0\server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angelica\Desktop\Nova pasta (2)\dotnet\server\obj\Debug\net6.0\server.AssemblyInfoInputs.cache
+C:\Users\Angelica\Desktop\Nova pasta (2)\dotnet\server\obj\Debug\net6.0\server.AssemblyInfo.cs
+C:\Users\Angelica\Desktop\Nova pasta (2)\dotnet\server\obj\Debug\net6.0\server.csproj.CoreCompileInputs.cache
+C:\Users\Angelica\Desktop\Nova pasta (2)\dotnet\server\obj\Debug\net6.0\server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Angelica\Desktop\Nova pasta (2)\dotnet\server\obj\Debug\net6.0\server.MvcApplicationPartsAssemblyInfo.cache

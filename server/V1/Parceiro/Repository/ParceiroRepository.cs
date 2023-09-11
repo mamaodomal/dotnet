@@ -9,7 +9,7 @@ namespace server.V1.Parceiro.Repository
 {
     public class ParceiroRepository : IParceiroRepository
     {
-        public ParceiroService()
+        public ParceiroRepository()
         {
 
         }
